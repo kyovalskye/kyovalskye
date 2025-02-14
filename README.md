@@ -7,6 +7,7 @@
 💻 Still figuring out this coding thing  
 🎨 Playing around with HTML, CSS, and JavaScript (tryna get good at Javascript)  
 🚀 Currently messing with React, Next JS
+
 💡 Dreaming of becoming a front-end dev, but 90% of my time is spent fixing div alignment 
 
 🌱 Learning web development whenever I feel like it  
