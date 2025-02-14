@@ -4,8 +4,7 @@
 
 # 👋 Yo! I'm Kyo
 
-💡 Dreaming of becoming a front-end dev, but 90% of my time is spent fixing div alignment
-💻 Still figuring out this coding thing  
+💡 Dreaming of becoming a front-end dev, but 90% of my time is spent fixing div alignment  
 🎨 Playing around with HTML, CSS, and JavaScript (tryna get good at Javascript)  
 🚀 Currently messing with React, Next JS 
 
