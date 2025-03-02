@@ -11,7 +11,6 @@
 
 📬 Hit me up:  
 - 💬 Instagram: [@kyovalskia]  
-- 📧 Email: [dimasvicosatrianugraha@gmail.com]  
 
 🔥 "Coding is fun... until errors show up"  
 
