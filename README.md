@@ -5,7 +5,7 @@
 </div>
 
 ## 🌟 My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,dart)](#)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,dart,flutter)](#)
 
 ## 📊 GitHub Stats & Streak
 <p align="center">
