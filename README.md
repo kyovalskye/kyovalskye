@@ -1,12 +1,13 @@
 # Hi there, I'm Kyovalskye! 👋🐱
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Hello+there!+:D+%F0%9F%92%BB;Coffee+addict >:D+;Always+Learning+%E2%9C%A8" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;Living+in+the+USA;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300"/>
 </div>
+
 
 ## 🐾 About Me
 
