@@ -71,7 +71,7 @@ Just like cats, I believe in being authentic in my code - no hidden bugs, just p
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&color=ff6b6b&style=for-the-badge&label=Profile+Views" />
+  <img src="https://komarev.com/ghpvc/?username=kyovalskye&color=ff6b6b&style=for-the-badge&label=Profile+Views" />
 </div>
 
 <div align="center">
