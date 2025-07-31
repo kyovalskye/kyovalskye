@@ -1,7 +1,7 @@
 # Hi there, I'm Kyovalskye! 👋🐱
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Interest+on+Mobile+Developing+%F0%9F%92%BB;Coffee+addict+>:D;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Interest+on+Mobile+Developing+%F0%9F%92%BB;Stackin'+skill+like+Lego+blocks+>:D;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -76,7 +76,7 @@ Just like cats, I believe in being authentic in my code - no hidden bugs, just p
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :D</b></em>
   <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
 </div>
 
