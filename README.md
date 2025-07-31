@@ -40,9 +40,6 @@ final Map<String, dynamic> kyovalskye = {
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -63,16 +60,7 @@ final Map<String, dynamic> kyovalskye = {
   <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200"/>
 </div>
 
-### 😸 Daily Cat Wisdom
-> *"A cat has absolute emotional honesty: human beings, for one reason or another, may hide their feelings, but a cat does not."* - Ernest Hemingway
-
-Just like cats, I believe in being authentic in my code - no hidden bugs, just purr-fect solutions! 🐾
-
 ---
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kyovalskye&color=ff6b6b&style=for-the-badge&label=Profile+Views" />
-</div>
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
