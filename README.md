@@ -15,7 +15,7 @@ final Map<String, dynamic> kyovalskye = {
   'name': 'Kyovalskye',
   'location': 'Indonesia',
   'currentFocus': ['Flutter', 'Javascript'],
-  'languages': ['CSS', 'Python', 'TypeScript'],
+  'languages': ['CSS', 'Dart', 'HTML'],
   'tools': ['Git', 'VS Code'],
 };
 
