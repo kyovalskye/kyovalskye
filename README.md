@@ -44,9 +44,6 @@ final Map<String, dynamic> kyovalskye = {
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 👀 My Activities
-  <img src="https://wakatime.com/badge/user/65dae68c-b3e1-49b7-aa9d-e0da241a18a2.svg" width="400" height="300"/>
-
 </div>
 
 <div align="center">
