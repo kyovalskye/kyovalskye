@@ -23,6 +23,10 @@ final Map<String, dynamic> kyovalskye = {
 ```
 
 <div align="center">
+  [![wakatime](https://wakatime.com/badge/user/65dae68c-b3e1-49b7-aa9d-e0da241a18a2.svg)](https://wakatime.com/@65dae68c-b3e1-49b7-aa9d-e0da241a18a2)
+</div>
+
+<div align="center">
   <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
   <br>
   <i>My coding buddy supervising my work</i>
