@@ -17,7 +17,7 @@ final Map<String, dynamic> kyovalskye = {
   'location': 'Indonesia',
   'currentFocus': ['Flutter', 'Javascript'],
   'languages': ['CSS', 'Dart', 'HTML'],
-  'tools': ['Git', 'VS Code'],
+  'tools': ['Git', 'VS Code', 'Postman'],
 };
 
 ```
