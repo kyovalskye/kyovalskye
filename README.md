@@ -3,18 +3,18 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+IT+Entrepreneur;From+Myanmar" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Software+Engineering+Student%26+IT+Entrepreneur;From+Myanmar" alt="Typing SVG" />
 </h3>
 
 
 <!-- About Me -->
-- 🔭 Currently working on [Omega Toolkit](https://github.com/Omega-Dimension/omega-toolkit)
+- 🔭 Currently working on [CI/CD Pipeline With Docker](https://github.com/kyovalskye/Jenkins-CI-CD-Pipeline-with-Docker)
 
-- 🌱 Learning **Full Stack Development**
+- 🌱 Learning **Devops Engineering**
   
-- 👯 Open to **collaborations** on open source projects
+<!-- Inactive    👯 Open to **collaborations** on open source projects -->
   
-- 📫 Reach me: **scorpiofento@gmail.com**
+- 📫 Reach me: **dimasvicosatrianugraha@gmail.com**
   
 - 💻 Portfolio: [later](later)
 
