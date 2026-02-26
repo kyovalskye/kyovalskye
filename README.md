@@ -1,80 +1,92 @@
-# Hi there, I'm Kyovalskye! 👋🐱
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=500&color=#4092ad&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Kyovalskye" alt="Typing SVG" />
+</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=600&lines=Welcome+to+my+Github!+:D;Interest+on+Mobile+Developing;Always+Learning+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" height="300"/>
-</div>
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=400&size=20&duration=2500&pause=500&color=36BCF7&center=true&vCenter=true&width=500&lines=Frontend+Developer+%26+IT+Entrepreneur;From+Myanmar" alt="Typing SVG" />
+</h3>
 
 
-## 🐾 About Me
+<!-- About Me -->
+- 🔭 Currently working on [Omega Toolkit](https://github.com/Omega-Dimension/omega-toolkit)
 
-```javascript
-final Map<String, dynamic> kyovalskye = {
-  'name': 'Kyovalskye',
-  'location': 'Indonesia',
-  'currentFocus': ['Flutter', 'Javascript'],
-  'languages': ['CSS', 'Dart', 'HTML'],
-  'tools': ['Git', 'VS Code', 'Postman'],
-};
+- 🌱 Learning **Devops Engineering**
+  
+- 👯 Open to **collaborations** on open source projects
+  
+- 📫 Reach me: **scorpiofento@gmail.com**
+  
+- 💻 Portfolio: [later](later)
 
-```
+<!-- Connect -->
+<h3 align="left">Connect with me</h3>
+<p align="left">
+  <a href="https://linkedin.com/in/pyae-sone-tun-fento" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/>
+  </a>
+  <a href="https://facebook.com/pyae-sone-tun-fento" target="_blank" rel="noopener noreferrer">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40"/>
+  </a>
+</p>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/VbnUQpnihPSIgIXuZv/giphy.gif" width="100"/>
-  <br>
-  <i>My coding buddy supervising my work</i>
-</div>
+<!-- Skills & Tools -->
+<h3 align="left">Languages & Tools</h3>
+<p align="center" style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <!-- Technologies -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50"/>
+  </a>
+  <a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="50" height="50"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
+  </a>
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="50" height="50"/>
+  </a>
+  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="Sass" width="50" height="50"/>
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="50" height="50"/>
+  </a>
+  <!-- Backend & Databases -->
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50"/>
+  </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="50" height="50"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="50" height="50"/>
+  </a>
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="50" height="50"/>
+  </a>
+  <!-- DevOps -->
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/>
+  </a>
+</p>
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-### Frontend
-[![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=fff)](#)
-[![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?logo=dart&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-[![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](#)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-EF5B25?style=for-the-badge&logo=postman&logoColor=white)
-
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100"/>
-  <br>
-  <i>Me when I fix a bug on the first try</i>
-</div>
-
-## 🐱 Cat Corner
-
-<div align="center">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif" width="200"/>
-  <img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="200"/>
-</div>
-
----
-
-<div align="center">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> 
-  <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more! :D</b></em>
-  <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="60">
-</div>
-
----
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=FE428E&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%98%8A;Have+a+paw-some+day!+%F0%9F%90%BE;Keep+coding+and+stay+curious!+%E2%9C%A8" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="50%"/>
-</div>
+<!-- Stats -->
+<h3 align="left">My Stats</h3>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scorpiofento&show_icons=true&locale=en&layout=compact&theme=dark&background=0f0f0f&border_color=00FF00&hide_border=true&card_width=450" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=scorpiofento&show_icons=true&locale=en&theme=dark&background=000000&border_color=00FF00&hide_border=true&card_width=400" alt="GitHub Stats" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=scorpiofento&theme=dark&background=000000&border=00FF00&hide_border=true&card_width=900" alt="GitHub Streak" />
+    </td>
+  </tr>
+</table>
