@@ -8,7 +8,7 @@
 
 
 <!-- About Me -->
-- 🔭 Currently working on [CI/CD Pipeline With Docker](https://github.com/kyovalskye/Jenkins-CI-CD-Pipeline-with-Docker)
+- 🔭 Currently working on ...
 
 - 🌱 Learning **Devops Engineering**
   
