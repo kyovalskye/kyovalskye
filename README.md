@@ -8,7 +8,7 @@
 
 
 <!-- About Me -->
-- 🔭 Currently working on ...
+- 🔭 Currently working on Acquisition Service
 
 - 🌱 Learning **Devops Engineering**
   
