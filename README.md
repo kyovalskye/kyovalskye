@@ -67,10 +67,10 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=scorpiofento&show_icons=true&locale=en&layout=compact&theme=dark&background=0f0f0f&border_color=00FF00&hide_border=true&card_width=450" alt="Top Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kyovalskye&show_icons=true&locale=en&layout=compact&theme=dark&background=0f0f0f&border_color=00FF00&hide_border=true&card_width=450" alt="Top Languages" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=scorpiofento&show_icons=true&locale=en&theme=dark&background=000000&border_color=00FF00&hide_border=true&card_width=400" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=kyovalskye&show_icons=true&locale=en&theme=dark&background=000000&border_color=00FF00&hide_border=true&card_width=400" alt="GitHub Stats" />
     </td>
   </tr>
   <tr>
