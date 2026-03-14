@@ -7,7 +7,7 @@
 </h3>
 
 <!-- About Me -->
-- 🔭 Currently working on Acquisition Service
+- 🔭 Currently working on [Acquisition Service] (https://github.com/kyovalskye/acquisitions-service.git)
 
 - 🌱 Learning **Devops Engineering**
   
